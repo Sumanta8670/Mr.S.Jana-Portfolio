@@ -84,7 +84,7 @@ export const projects = [
     title: "CareMate",
     description:
       "CareMate is an end-to-end full-stack application built using Java, Spring Boot, and React. The platform enables users to digitally book nurses or caretakers for elderly people, providing essential healthcare and assistance services directly at home.",
-    image: "/images/projects/",
+    image: "/images/projects/CareMate_Project_1.png",
     category: "Full Stack",
     technologies: [
       "Java",
